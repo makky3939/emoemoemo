@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+p {
+  font-size: 1.5em;
+}
+
+.tweets-container {
+  border-left: 1px solid #efefef;
+  border-right: 1px solid #efefef;
+}
+
+.tweets-container p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #efefef;
+}
+
+.tweets-container p:hover {
+  background-color: #ececec;
+}
