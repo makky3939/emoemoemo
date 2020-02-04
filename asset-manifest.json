@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/emoemoemo/static/css/main.58c6892f.chunk.css",
+    "main.js": "/emoemoemo/static/js/main.c5fdd513.chunk.js",
+    "main.js.map": "/emoemoemo/static/js/main.c5fdd513.chunk.js.map",
+    "runtime-main.js": "/emoemoemo/static/js/runtime-main.1ef5613e.js",
+    "runtime-main.js.map": "/emoemoemo/static/js/runtime-main.1ef5613e.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/emoemoemo/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.53eec355.chunk.js": "/emoemoemo/static/js/2.53eec355.chunk.js",
+    "static/js/2.53eec355.chunk.js.map": "/emoemoemo/static/js/2.53eec355.chunk.js.map",
+    "index.html": "/emoemoemo/index.html",
+    "precache-manifest.b11cc9acdde5fc177f4e37d86402859f.js": "/emoemoemo/precache-manifest.b11cc9acdde5fc177f4e37d86402859f.js",
+    "service-worker.js": "/emoemoemo/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/emoemoemo/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.58c6892f.chunk.css.map": "/emoemoemo/static/css/main.58c6892f.chunk.css.map",
+    "static/js/2.53eec355.chunk.js.LICENSE.txt": "/emoemoemo/static/js/2.53eec355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ef5613e.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.53eec355.chunk.js",
+    "static/css/main.58c6892f.chunk.css",
+    "static/js/main.c5fdd513.chunk.js"
+  ]
+}
